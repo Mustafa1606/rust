@@ -7,7 +7,7 @@ fn diverges() -> ! {
 }
 
 fn main() {
-    println!("Привет, мир!");
+    println!("Арсен кончай ломаться!");
 	let x = 5;
 	let (y,z) = (2,3);
 	let b: i32 = 546;
